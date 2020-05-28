@@ -1,0 +1,40 @@
+html{
+    background-image: url(./Image/BackGround.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+ul {
+    float:left;
+    list-style-type: none;
+    margin: 0;
+    width:9%;
+    height: 100vh;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+  }
+  
+  li {
+    float: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding-top:40%;
+    padding-bottom:20%;
+    padding-left:10%;
+    font-size:20px;
+    color:lightblue;
+    font-family:"Rye";
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: white;
+    color: black;
+  }

@@ -1,0 +1,56 @@
+
+body{
+    margin-top:0%;
+    padding:0%;
+    margin-left:0%;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./Imu/BackGround.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.searchInput{
+    margin-left:3.5%;
+    font-size:15px;
+    width:20%;
+    
+
+}
+h1{
+    margin-top:0.1%;
+    font-family: "Times New Roman";
+    margin-left:0%;
+    padding-top:2%;
+    text-align:center;
+    color:#52FC17;
+    font-size:40px;
+}
+
+h2{
+    font-family:"Abhaya Libre";
+    padding-left:3.5%;
+    padding-top:6%;
+    color:orange;
+}
+nav ul{
+    font-family:"Alegreya SC";
+    padding-left:3.5%;
+    height: 200px;
+    width: 20%;
+    color:white;
+    font-size:16px;
+
+}
+nav ul{
+    margin-left:3.5%;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+ul{
+    list-style: hidden;
+    padding:0;
+}
+
+
