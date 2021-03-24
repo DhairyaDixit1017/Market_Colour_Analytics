@@ -1,5 +1,5 @@
 # Info
-CITI Internship Project UI.
+Market Color Analytics UI.
 
 # TestCodes
 
